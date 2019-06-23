@@ -10,7 +10,4 @@ Roguelikedev Does The Complete Roguelike Tutorial 2019 - Starting June 18th
 * First time working through the tutorial
 * Looking forward to the fun :)
 
-
-
 [logo]: https://github.com/jesse-digregorio/rldev-tutorial-2019/blob/master/rldev-tutorial-logo-2019.png "Roguelike Tutorial 2019"
-
