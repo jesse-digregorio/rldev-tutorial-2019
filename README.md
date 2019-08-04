@@ -38,5 +38,9 @@ Roguelikedev Does The Complete Roguelike Tutorial 2019 - Starting June 18th
 
 > I am interested the working on the map generation more to try to prevent so many parallel hallways from being created. However, since this is my first time though, I want to work all the way through the tutorial once before I rabbit-hole on any one thing. :)
 
+**03-August** - Completed the tutorial.
+
+> While it was difficult to find time to work through the tutorial (and more so to keep this little log up-to-date ;) ), I did have a lot of fun. I'm going to go off and look at rot.js and see about creating a rogue-like with Node.js. 
+
 
 [logo]: https://github.com/jesse-digregorio/rldev-tutorial-2019/blob/master/rldev-tutorial-logo-2019.png "Roguelike Tutorial 2019"
